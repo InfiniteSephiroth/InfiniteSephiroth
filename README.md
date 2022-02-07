@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @InfiniteSephiroth
+- 👀 I’m interested in Ethical Hacking and automation
+- 🌱 I’m currently learning Python
